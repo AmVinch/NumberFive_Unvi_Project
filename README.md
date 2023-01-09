@@ -78,7 +78,7 @@ Spring Boot 학사 관리 프로그램
 </div>
 </details>
 
-## 🛠 <img src="https://user-images.githubusercontent.com/116548583/207242549-9131e051-b994-43e0-b62c-eba2174f8b32.png" width="65" height="55">본인(이유빈) 담당 기능
+## <img src="https://user-images.githubusercontent.com/116548583/207242549-9131e051-b994-43e0-b62c-eba2174f8b32.png" width="65" height="55">본인(이유빈) 담당 기능
 <details>
 <summary> 기능 구현</summary>
 <div markdown="1">       
