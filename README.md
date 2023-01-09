@@ -8,6 +8,7 @@ Spring Boot 학사 관리 프로그램
 * 2022.10.26 - 2022.12.09
 ### ⚙ 사용 기술
 <img src="https://user-images.githubusercontent.com/116548583/207210191-7faa86f3-d5aa-472c-9299-65f41a87edc1.png"  width="800" height="370">
+
 ## 📌 커밋 메시지
 * 개발한 기술 - 본인 이름 형식
 ![커밋 메시지](https://user-images.githubusercontent.com/116548583/207213747-99c249db-4264-4c5c-a312-9f190cff80a3.png)
@@ -16,7 +17,7 @@ Spring Boot 학사 관리 프로그램
 ### 🎓 팀원 소개
 |<img src="https://user-images.githubusercontent.com/116548583/207240591-8581ba3e-1951-4545-949d-5391a1678a3e.png" width="65" height="55">|<img src="https://user-images.githubusercontent.com/116548583/207242549-9131e051-b994-43e0-b62c-eba2174f8b32.png" width="65" height="55">|<img src="https://user-images.githubusercontent.com/116548583/207245197-c605741b-b776-4ab6-92db-e05b3a31a0a0.png" width="65" height="55">|
 |:---|:---:|:---:|  
-|<a href="https://github.com/AmVinch">이유빈(본인⭐)</a>|<a href="https://github.com/lmmil22">신지아</a>| <a href="https://github.com/kskdeveloper">권수경</a>
+|<a href="https://github.com/lmmil22">신지아</a>|<a href="https://github.com/AmVinch">이유빈(본인⭐)</a> | <a href="https://github.com/kskdeveloper">권수경</a>
 
 
 ## 🛠 전체 주요 기능
@@ -77,7 +78,7 @@ Spring Boot 학사 관리 프로그램
 </div>
 </details>
 
-## 🛠 본인(이유빈) 담당 기능
+## 🛠 <img src="https://user-images.githubusercontent.com/116548583/207242549-9131e051-b994-43e0-b62c-eba2174f8b32.png" width="65" height="55">본인(이유빈) 담당 기능
 <details>
 <summary> 기능 구현</summary>
 <div markdown="1">       
