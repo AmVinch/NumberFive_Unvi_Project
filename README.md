@@ -84,14 +84,13 @@ Spring Boot 학사 관리 프로그램
 
 
 
-## 📸 ScreenShot
-
+## 📸 프로젝트 기능구현 동영상 시청
 
 <details>
-<summary>로그인</summary>
+<summary>유투브 시청</summary>
 <div markdown="1">       
 
-스크린 샷
+https://www.youtube.com/watch?v=kZ5M1I0Jypc
 
 </div>
 </details>
