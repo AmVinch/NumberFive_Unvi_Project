@@ -1,11 +1,20 @@
 # 🏫 NumberFive_Unvi (Team Project)
-Spring Boot 학사 관리 프로그램
+Spring Boot Java 웹개발 팀프로젝트 : 학사 관리 프로그램
 
 ## 🖋 프로젝트 소개
 대학교 포털(학생정보시스템)사이트 내의 학적,성적,게시판 기능을 주로 구현한 학사관리 웹페이지 제작 프로젝트입니다.
 
 ### 📅 개발 기간 
 * 2022.10.26 - 2022.12.09
+
+
+###  개발환경
+- 자바 11
+- JDK 11
+- tomcat 8.5
+- 오라클 18
+- 스프링 5 버전
+
 ### ⚙ 사용 기술
 <img src="https://user-images.githubusercontent.com/116548583/207210191-7faa86f3-d5aa-472c-9299-65f41a87edc1.png"  width="800" height="370">
 
